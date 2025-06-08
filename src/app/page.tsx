@@ -1,9 +1,6 @@
 
 
-
 import FetchSkips from "@/components/fetchSkips";
-
-
 export default  function Home() {
   
      return(

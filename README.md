@@ -17,11 +17,6 @@ This project is a React/Next.js-based waste management web application designed 
     SideBar Navigation :Added a persistent sidebar for easy navigation throughout the app.
 5.Visual Enhancements
    Background Effects:Added blurred background elements using a custom blog component for visually appealing look
-            
-<!-- 
-I started by designing the layout of the page. I wanted to make sure that the content was easy to read
-and that the user could quickly find the information they needed. I used a grid system to create a
-responsive design that would work well on a variety of devices.
 
-I use react fetch to get data from the API and then I use the data to render the card components. -->
+
 
