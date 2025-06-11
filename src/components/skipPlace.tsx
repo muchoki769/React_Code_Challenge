@@ -7,9 +7,9 @@ export default function  SkipPlace () {
     const router = useRouter();
     return (
         
-        <div className="flex flex-col items-center justify-center sm:grid-1 h-screen bg-gray-100">
+        <div className="flex flex-col items-center md:justify-center sm:grid-1 h-screen bg-gray-100">
            
-            <div className="space-x-4 m-2">
+            <div className="md:space-x-4 m-2">
             <button 
              onClick={() => router.push(`/skipPlace/private`)} 
             className="rounded-xl bg-gray-50 p-2 shadow-sm mb-4 hover:bg-gray-300 cursor-pointer">
